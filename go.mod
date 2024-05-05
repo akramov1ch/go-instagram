@@ -1,4 +1,4 @@
-module instagram
+module github.com/akramov1ch/go-instagram
 
 go 1.22.2
 
